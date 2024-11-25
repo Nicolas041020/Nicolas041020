@@ -2,24 +2,24 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch: 
+    - cron: "0 0 * * *" # Ejecutar diariamente a medianoche
+  workflow_dispatch: # Permitir ejecución manual desde Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      
+      # 1. Clonar el repositorio
       - uses: actions/checkout@v2
 
-     
-      - uses: Platane/snk@v2
+      # 2. Generar la animación de la serpiente
+      - uses: Platane/snk@v3
         with:
-          github_user_name: Nicolas041020 
+          github_user_name: Nicolas041020 # Asegúrate de que este sea tu usuario correcto
           outputs: dist/snake.svg
 
-     
+      # 3. Subir el archivo generado
       - uses: crazy-max/ghaction-github-pages@v2
         with:
-          target_branch: main 
+          target_branch: main # O cambia a `output` si prefieres usar otra rama
           build_dir: dist
