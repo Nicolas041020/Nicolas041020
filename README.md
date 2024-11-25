@@ -19,7 +19,6 @@
       <td align="center">
         <img src="https://www.unipiloto.edu.co/wp-content/uploads/2013/11/UnipilotoVertical.jpg" height="100" alt="1.png"/><br>
         <strong>UPC</strong><br>Software Engineering<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
     </tr>
   </table>
