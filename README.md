@@ -17,8 +17,8 @@
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <strong>UPC</strong><br><strong>BSc.</strong> Computer Science<br>
+        <img src="https://www.unipiloto.edu.co/wp-content/uploads/2013/11/UnipilotoVertical.jpg" height="100" alt="1.png"/><br>
+        <strong>UPC</strong><br>Software Engineering<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
     </tr>
