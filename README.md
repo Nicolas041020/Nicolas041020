@@ -6,7 +6,7 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nicolas041020/Nicolas041020/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/Nicolas041020/Nicolas041020/main/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br/>
 </div>
 
