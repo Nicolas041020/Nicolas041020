@@ -18,8 +18,11 @@ jobs:
           github_user_name: Nicolas041020 # Asegúrate de que este sea tu usuario correcto
           outputs: dist/snake.svg
 
-      # 3. Subir el archivo generado
-      - uses: crazy-max/ghaction-github-pages@v2
+      # 3. Subir el archivo generado con GITHUB_TOKEN
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: main # O cambia a `output` si prefieres usar otra rama
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # El token es proporcionado por GitHub Actions
