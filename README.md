@@ -4,11 +4,6 @@
 <h2>📖 | About me</h2> 
 🌐 Im a Software Engineering student currently in my sixth semester, I am passionate about cybersecurity and identifying vulnerabilities in systems. My goal is to leverage emerging technologies to contribute meaningfully to the tech industry's advancement. I have a passion for solving complex problems, collaborating in team environments, and continuously learning to stay current with the latest tools in the field.
 
-<div align="center">
-  <br>
- <img src="https://raw.githubusercontent.com/Nicolas041020/Nicolas041020/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <br/>
-</div>
 
 <h2>📚 | Education</h2>
 <p>As an engineer I spect to solve important problems for people to make their life easier</p><br>
