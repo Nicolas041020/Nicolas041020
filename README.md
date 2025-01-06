@@ -1,7 +1,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Nicolás+Moreno+Ramírez!;" />
 
-<h2>📖 | About me</h2> 
+<h2>💻 | About me</h2> 
 🌐 Im a Software Engineering student currently in my seventh semester, I am passionate about Machine and Deep learning. My goal is to leverage emerging technologies to contribute meaningfully to the tech industry's advancement. I have a passion for solving complex problems, collaborating in team environments, and continuously learning to stay current with the latest tools in the field.
 
 
