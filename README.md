@@ -9,7 +9,7 @@
 <p>As an engineer I spect to solve important problems for people to make their life easier</p><br>
 
 <div align="center">
-  <table style="margin-left: auto; margin-right: auto; border:none;">
+  <table style="margin-left: auto; margin-right: auto; border: none;">
     <tr>
       <td align="center">
         <img src="https://www.unipiloto.edu.co/wp-content/uploads/2013/11/UnipilotoVertical.jpg" height="100" alt="1.png"/><br>
